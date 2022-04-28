@@ -44,6 +44,7 @@ namespace Fun_with_number_but_bettter
             WriteLine("");
             WriteLine("This a better and recreated application of original Fun With Number build by dingel");
             WriteLine("Music: Rick Astley - Never Gonna Give You Up");
+            WriteLine("Music System Tutorial: Michael Hadley");
             WriteLine("Apple MacBook Pro M1");
             ForegroundColor = ConsoleColor.White;
             WriteLine("");

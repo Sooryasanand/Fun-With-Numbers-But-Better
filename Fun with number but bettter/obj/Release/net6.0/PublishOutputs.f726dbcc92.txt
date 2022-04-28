@@ -1,0 +1,12 @@
+E:\Fun With Numbers Assessment\Final Products\Fun With Numbers but Bettter\Fun with number but bettter.exe
+E:\Fun With Numbers Assessment\Final Products\Fun With Numbers but Bettter\Fun with number but bettter.dll
+E:\Fun With Numbers Assessment\Final Products\Fun With Numbers but Bettter\Fun with number but bettter.deps.json
+E:\Fun With Numbers Assessment\Final Products\Fun With Numbers but Bettter\Fun with number but bettter.runtimeconfig.json
+E:\Fun With Numbers Assessment\Final Products\Fun With Numbers but Bettter\Fun with number but bettter.pdb
+E:\Fun With Numbers Assessment\Final Products\Fun With Numbers but Bettter\Microsoft.Win32.SystemEvents.dll
+E:\Fun With Numbers Assessment\Final Products\Fun With Numbers but Bettter\System.Drawing.Common.dll
+E:\Fun With Numbers Assessment\Final Products\Fun With Numbers but Bettter\System.Windows.Extensions.dll
+E:\Fun With Numbers Assessment\Final Products\Fun With Numbers but Bettter\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Fun With Numbers Assessment\Final Products\Fun With Numbers but Bettter\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Fun With Numbers Assessment\Final Products\Fun With Numbers but Bettter\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Fun With Numbers Assessment\Final Products\Fun With Numbers but Bettter\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

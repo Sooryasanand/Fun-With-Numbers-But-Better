@@ -1,0 +1,115 @@
+E:\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.exe
+E:\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.deps.json
+E:\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.runtimeconfig.json
+E:\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.dll
+E:\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.pdb
+E:\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.csproj.AssemblyReference.cache
+E:\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.AssemblyInfoInputs.cache
+E:\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.AssemblyInfo.cs
+E:\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.csproj.CoreCompileInputs.cache
+E:\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.csproj.CopyComplete
+E:\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.dll
+E:\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\refint\Fun with number but bettter.dll
+E:\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.pdb
+E:\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.genruntimeconfig.cache
+E:\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\ref\Fun with number but bettter.dll
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.csproj.AssemblyReference.cache
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.AssemblyInfoInputs.cache
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.AssemblyInfo.cs
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.csproj.CoreCompileInputs.cache
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.dll
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\refint\Fun with number but bettter.dll
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.pdb
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.exe
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.deps.json
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.runtimeconfig.json
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.dll
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.pdb
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.csproj.CopyComplete
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.genruntimeconfig.cache
+E:\Projects\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\ref\Fun with number but bettter.dll
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.exe
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.deps.json
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.runtimeconfig.json
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.dll
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.pdb
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.csproj.AssemblyReference.cache
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.AssemblyInfoInputs.cache
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.AssemblyInfo.cs
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.csproj.CoreCompileInputs.cache
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.csproj.CopyComplete
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.dll
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\refint\Fun with number but bettter.dll
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.pdb
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.genruntimeconfig.cache
+C:\Users\soory\Documents\New folder\Fun With Number But Bettter\Fun with number but bettter\obj\Debug\net6.0\ref\Fun with number but bettter.dll
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.exe
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.deps.json
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.runtimeconfig.json
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.dll
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.pdb
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.csproj.AssemblyReference.cache
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.AssemblyInfoInputs.cache
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.AssemblyInfo.cs
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.csproj.CoreCompileInputs.cache
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.csproj.CopyComplete
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.dll
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\obj\Debug\net6.0\refint\Fun with number but bettter.dll
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.pdb
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.genruntimeconfig.cache
+C:\Users\soory\Documents\New folder\Fun-With-Numbers\Fun with number but bettter\obj\Debug\net6.0\ref\Fun with number but bettter.dll
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.exe
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.deps.json
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.runtimeconfig.json
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.dll
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\bin\Debug\net6.0\Fun with number but bettter.pdb
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.csproj.AssemblyReference.cache
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.AssemblyInfoInputs.cache
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.AssemblyInfo.cs
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.csproj.CoreCompileInputs.cache
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.csproj.CopyComplete
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.dll
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\obj\Debug\net6.0\refint\Fun with number but bettter.dll
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.pdb
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\obj\Debug\net6.0\Fun with number but bettter.genruntimeconfig.cache
+E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\obj\Debug\net6.0\ref\Fun with number but bettter.dll

@@ -17,3 +17,22 @@ E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but b
 E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\obj\Release\net6.0\win-x64\Fun with number but bettter.pdb
 E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\obj\Release\net6.0\win-x64\Fun with number but bettter.genruntimeconfig.cache
 E:\Fun With Numbers Assessment\Fun With Numbers But Better\Fun with number but bettter\obj\Release\net6.0\win-x64\ref\Fun with number but bettter.dll
+E:\Fun With Numbers But Better\Fun with number but bettter\bin\Release\net6.0\win-x64\Fun with number but bettter.exe
+E:\Fun With Numbers But Better\Fun with number but bettter\bin\Release\net6.0\win-x64\Fun with number but bettter.deps.json
+E:\Fun With Numbers But Better\Fun with number but bettter\bin\Release\net6.0\win-x64\Fun with number but bettter.runtimeconfig.json
+E:\Fun With Numbers But Better\Fun with number but bettter\bin\Release\net6.0\win-x64\Fun with number but bettter.dll
+E:\Fun With Numbers But Better\Fun with number but bettter\bin\Release\net6.0\win-x64\Fun with number but bettter.pdb
+E:\Fun With Numbers But Better\Fun with number but bettter\bin\Release\net6.0\win-x64\Microsoft.Win32.SystemEvents.dll
+E:\Fun With Numbers But Better\Fun with number but bettter\bin\Release\net6.0\win-x64\System.Drawing.Common.dll
+E:\Fun With Numbers But Better\Fun with number but bettter\bin\Release\net6.0\win-x64\System.Windows.Extensions.dll
+E:\Fun With Numbers But Better\Fun with number but bettter\obj\Release\net6.0\win-x64\Fun with number but bettter.csproj.AssemblyReference.cache
+E:\Fun With Numbers But Better\Fun with number but bettter\obj\Release\net6.0\win-x64\Fun with number but bettter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fun With Numbers But Better\Fun with number but bettter\obj\Release\net6.0\win-x64\Fun with number but bettter.AssemblyInfoInputs.cache
+E:\Fun With Numbers But Better\Fun with number but bettter\obj\Release\net6.0\win-x64\Fun with number but bettter.AssemblyInfo.cs
+E:\Fun With Numbers But Better\Fun with number but bettter\obj\Release\net6.0\win-x64\Fun with number but bettter.csproj.CoreCompileInputs.cache
+E:\Fun With Numbers But Better\Fun with number but bettter\obj\Release\net6.0\win-x64\Fun with number but bettter.csproj.CopyComplete
+E:\Fun With Numbers But Better\Fun with number but bettter\obj\Release\net6.0\win-x64\Fun with number but bettter.dll
+E:\Fun With Numbers But Better\Fun with number but bettter\obj\Release\net6.0\win-x64\refint\Fun with number but bettter.dll
+E:\Fun With Numbers But Better\Fun with number but bettter\obj\Release\net6.0\win-x64\Fun with number but bettter.pdb
+E:\Fun With Numbers But Better\Fun with number but bettter\obj\Release\net6.0\win-x64\Fun with number but bettter.genruntimeconfig.cache
+E:\Fun With Numbers But Better\Fun with number but bettter\obj\Release\net6.0\win-x64\ref\Fun with number but bettter.dll

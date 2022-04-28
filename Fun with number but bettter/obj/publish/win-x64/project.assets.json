@@ -205,19 +205,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\soorya.sanand\\.nuget\\packages\\": {}
+    "C:\\Users\\soory\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Fun With Numbers Assessment\\Fun With Numbers But Better\\Fun with number but bettter\\Fun with number but bettter.csproj",
+      "projectUniqueName": "E:\\Fun With Numbers But Better\\Fun with number but bettter\\Fun with number but bettter.csproj",
       "projectName": "Fun with number but bettter",
-      "projectPath": "E:\\Fun With Numbers Assessment\\Fun With Numbers But Better\\Fun with number but bettter\\Fun with number but bettter.csproj",
-      "packagesPath": "C:\\Users\\soorya.sanand\\.nuget\\packages\\",
-      "outputPath": "E:\\Fun With Numbers Assessment\\Fun With Numbers But Better\\Fun with number but bettter\\obj\\publish\\win-x64\\",
+      "projectPath": "E:\\Fun With Numbers But Better\\Fun with number but bettter\\Fun with number but bettter.csproj",
+      "packagesPath": "C:\\Users\\soory\\.nuget\\packages\\",
+      "outputPath": "E:\\Fun With Numbers But Better\\Fun with number but bettter\\obj\\publish\\win-x64\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\soorya.sanand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\soory\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
